@@ -1,4 +1,4 @@
-**PROJECT ON MOVIE RATING PREDICTION**
+## PROJECT ON MOVIE RATING PREDICTION
 
 Given a training dataset consisting information about user ratings for a  movie on a scale of 0 to 5. The training dataset contains four columns including userId, movieId, rating and timestamp along with another dataset containing information of movies like movieId, title and genres. The task is to predict the user ratings for movies for the given test dataset.
 
